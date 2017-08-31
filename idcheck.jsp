@@ -85,4 +85,8 @@ function ok(){
 		
 	</center>
 </body>
+<<<<<<< HEAD
 </html>ddfdf
+
+</html>
+34006d2cddd285205d3595c6039c00f06527df0b
